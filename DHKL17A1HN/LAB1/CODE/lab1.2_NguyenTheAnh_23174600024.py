@@ -17,4 +17,4 @@ class JSONReader:
 path = 'H:/DHKL17A1HN/LAB1/DATA/user.json'
 reader = JSONReader(path)
 reader.read_json()
-reader.display_data()
+reader.display_data
